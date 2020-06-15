@@ -48,8 +48,8 @@ Always remember to disband an event to avoid server RAM problems.</p>
 Probabily: 20/06
 
 <h3>Version</h3>
-Our Sponsor: 0.1
-Public: 0.1
+<p>Our Sponsor: 0.1</p>
+<p>Public: 0.1</p>
 
 <h3>Sponsor</h3>
 <p>Vi invitiamo a passare nel server MyCity (mycity.minecraft.pro)</p>
