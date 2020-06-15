@@ -23,8 +23,8 @@ players on their server.</p>
 Always remember to disband an event to avoid server RAM problems.</p>
 
 <h3>TO-DO List:</h3>
-[-] Make it impossible for the creator of an event to join in it.<br>
-[] Set the spawn area of an event and do not rely on that of the player<br>
+['] Make it impossible for the creator of an event to join in it.<br>
+['] Set the spawn area of an event and do not rely on that of the player<br>
 [] Temporarily empty the inventory<br>
 [] Temporarily remove buffs and debuffs<br>
 [] Temporarily remove changes to the life and hunger bar<br>
@@ -37,6 +37,7 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [] Optimization<br>
 [$] Update notification<br>
 ['] Add help<br>
+['] Auto-complete command<br>
 [] More<br>
 
 <h4> Legends </h4>
