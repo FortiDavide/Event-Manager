@@ -49,7 +49,8 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [$] Preview only to our Partners<br>
 
 <h3>Next Release</h3>
-Probabily: 20/06
+Public: 06/07
+Parthner: As soon as ready
 
 <h3>Version</h3>
 <p>Our Sponsor: 0.1</p>
