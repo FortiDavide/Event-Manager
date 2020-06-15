@@ -38,5 +38,11 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [] Update notification<br>
 [] More<br>
 
+<h4> Legends </h4>
+[x] Removed
+[v] Done
+[] Planning
+[-] Work in progress
+
 <h3>Sponsor</h3>
 <p>Vi invitiamo a passare nel server MyCity (mycity.minecraft.pro)</p>
