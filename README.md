@@ -43,6 +43,7 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [v] Done<br>
 [] Planning<br>
 [-] Work in progress<br>
+['] Implemented in the next version<br>
 
 <h3>Next Release</h3>
 Probabily: 20/06
