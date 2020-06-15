@@ -44,5 +44,12 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [] Planning<br>
 [-] Work in progress<br>
 
+<h3>Next Release</h3>
+Probabily: 20/06
+
+<h3>Version</h3>
+Our Sponsor: 0.1
+Public: 0.1
+
 <h3>Sponsor</h3>
 <p>Vi invitiamo a passare nel server MyCity (mycity.minecraft.pro)</p>
