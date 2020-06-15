@@ -35,8 +35,8 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [] Translation in the player's language<br>
 [] Create fully automated event templates<br>
 [] Optimization<br>
-[] Update notification<br>
-[] Add help
+[$] Update notification<br>
+['] Add help
 [] More<br>
 
 <h4> Legends </h4>
