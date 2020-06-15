@@ -1,4 +1,4 @@
-<h1>Event-Mamager</h1>
+<h1>Event-Manager</h1>
 
 <h3>Description</h3>
 <p>This plugin is intended to help server administrators manage various events for the<br>
