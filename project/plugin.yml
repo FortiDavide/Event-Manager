@@ -1,0 +1,27 @@
+name: Event_Manager
+main: org.alexia.event_manager.Main
+version: 1.0
+author: Alexia97
+commands:
+   event:
+      description: Base command for all plugin
+permissions:
+   # -------------------------------------------- #
+   # THE REAL NODES
+   # -------------------------------------------- #
+   event.help:
+      description: Show help messages
+      default: true
+   event.join:
+      description: Allow player to join into the event
+      default: true
+   event.leave:
+      description: Allow player to leave into the event
+      default: true
+   event.create:
+      description: Allow user to create a dungeon
+      default: op
+   event.disband:
+      description: Disband a event
+      default: op
+      
