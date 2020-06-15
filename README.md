@@ -36,6 +36,7 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [] Create fully automated event templates<br>
 [] Optimization<br>
 [] Update notification<br>
+[] Add help
 [] More<br>
 
 <h4> Legends </h4>
@@ -44,6 +45,7 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [] Planning<br>
 [-] Work in progress<br>
 ['] Implemented in the next version<br>
+[$] Preview only to our Partners<br>
 
 <h3>Next Release</h3>
 Probabily: 20/06
@@ -52,5 +54,5 @@ Probabily: 20/06
 <p>Our Sponsor: 0.1</p>
 <p>Public: 0.1</p>
 
-<h3>Sponsor</h3>
-<p>Vi invitiamo a passare nel server MyCity (mycity.minecraft.pro)</p>
+<h3>Parthner</h3>
+<p>We invite you to visit the server: MyCity (mycity.minecraft.pro)</p>
