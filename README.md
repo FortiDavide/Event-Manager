@@ -56,5 +56,5 @@ Parthner: As soon as ready<br>
 <p>Our Sponsor: 0.1</p>
 <p>Public: 0.1</p>
 
-<h3>Parthner</h3>
+<h3>Partner</h3>
 <p>We invite you to visit the server: MyCity (mycity.minecraft.pro)</p>
