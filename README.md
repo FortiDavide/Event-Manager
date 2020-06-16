@@ -23,11 +23,11 @@ players on their server.</p>
 Always remember to disband an event to avoid server RAM problems.</p>
 
 <h3>TO-DO List:</h3>
-['] Make it impossible for the creator of an event to join in it.<br>
-['] Set the spawn area of an event and do not rely on that of the player<br>
-[] Temporarily empty the inventory<br>
-[] Temporarily remove buffs and debuffs<br>
-[] Temporarily remove changes to the life and hunger bar<br>
+[+] Make it impossible for the creator of an event to join in it.<br>
+[+] Set the spawn area of an event and do not rely on that of the player<br>
+[-] Temporarily empty the inventory<br>
+[-] Temporarily remove buffs and debuffs<br>
+[-] Temporarily remove changes to the life and hunger bar<br>
 [] Allow the specification of buffs and debuffs by event<br>
 [] Teleport a player to his position before the event<br>
 [] Create scheduled and repeatable events<br>
@@ -36,8 +36,8 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [] Create fully automated event templates<br>
 [] Optimization<br>
 [$] Update notification<br>
-['] Add help<br>
-['] Auto-complete command<br>
+[+] Add help<br>
+[+] Auto-complete command<br>
 [] More<br>
 
 <h4> Legends </h4>
@@ -45,7 +45,7 @@ Always remember to disband an event to avoid server RAM problems.</p>
 [v] Done<br>
 [] Planning<br>
 [-] Work in progress<br>
-['] Implemented in the next version<br>
+[+] Implemented in the next version<br>
 [$] Preview only to our Partners<br>
 
 <h3>Next Release</h3>
